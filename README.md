@@ -1,1 +1,30 @@
-# Digit-Classification
+# MNIST Digit Classification (Digits 1, 2, 3)
+
+A neural network implementation from scratch using NumPy to classify handwritten digits (1, 2, and 3) from the MNIST dataset.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
+- [Dependencies](#dependencies)
+- [How to Run](#how-to-run)
+- [Implementation Details](#implementation-details)
+- [Results](#results)
+- [Visualizations](#visualizations)
+- [Customization](#customization)
+- [License](#license)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [Contact](#contact)
+
+## Project Overview
+
+This project implements a simple neural network from scratch (using NumPy) to classify handwritten digits (1, 2, and 3) from the MNIST dataset. The implementation includes:
+
+- Data loading and preprocessing
+- One-hot encoding of labels
+- Neural network with single layer
+- Softmax activation and cross-entropy loss
+- Training with gradient descent
+- Performance evaluation
+
+## Repository Structure
