@@ -78,9 +78,10 @@ Key components of the implementation:
 
 ## Results
 The model achieves the following performance:
-# Metric  |  Value
-Training Accuracy | ~98%
-Test Accuracy | ~96%
-Training Time | <1 minute
+| Metric  |  Value |
+| ------------- | ------------- |
+| Training Accuracy | ~98% |
+| Test Accuracy | ~96% |
+| Training Time | <1 minute |
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
