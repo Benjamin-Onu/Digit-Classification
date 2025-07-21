@@ -84,4 +84,17 @@ The model achieves the following performance:
 | Test Accuracy | ~96% |
 | Training Time | <1 minute |
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+Learning rate comparison results:
+
+| Learning Rate  |  Final Accuracy |
+| ------------- | ------------- |
+| 0.1 | 94.2% |
+| 0.2 | 95.7% |
+| 0.3 | 96.1% |
+| 0.4 | 95.9% |
+| 0.5 | 95.3% |
+
+### Credits
+- MNIST dataset from Yann LeCun and Corinna Cortes
+- NumPy for numerical computations
+- Keras for dataset loading utilities
