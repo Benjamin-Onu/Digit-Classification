@@ -6,15 +6,9 @@ A neural network implementation from scratch using NumPy to classify handwritten
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Dependencies](#dependencies)
-- [How to Run](#how-to-run)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
-- [Visualizations](#visualizations)
-- [Customization](#customization)
-- [License](#license)
-- [Future Improvements](#future-improvements)
 - [Credits](#credits)
-- [Contact](#contact)
 
 ## Project Overview
 
