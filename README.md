@@ -28,3 +28,12 @@ This project implements a simple neural network from scratch (using NumPy) to cl
 - Performance evaluation
 
 ## Repository Structure
+mnist-digit-classification/
+├── mnist_neural_network.py # Main implementation script
+├── README.md # This documentation file
+├── requirements.txt # Python dependencies
+├── images/ # Directory for output plots
+│ ├── accuracy_vs_epochs.png
+│ ├── accuracy_vs_lr.png
+│ └── loss_vs_epochs.png
+└── data/ # MNIST dataset (auto-downloaded)
